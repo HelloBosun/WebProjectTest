@@ -16,7 +16,8 @@ namespace WebProjectTest.Controllers
         {
             new Contacts{Id = 1, FirstName = "Developer", LastName = "Code", NickName= "Smart", Place= "Lagos", DateCreated = DateTime.Now, IsDeleted = false},
             new Contacts{Id = 2, FirstName = "Channel", LastName= "People", NickName= "Today", Place= "Ikoyi"},
-            new Contacts{Id = 3, FirstName = "Yahkwulu", LastName= "People", NickName= "Today", Place= "Ikoyi"}
+            new Contacts{Id = 3, FirstName = "Yahkwulu", LastName= "People", NickName= "Today", Place= "Ikoyi"},
+            new Contacts{Id = 4, FirstName = "Bosun", LastName= "Lekan", NickName= "Progress", Place= "Ikoyi"},
         };
 
         // // GET: ContactsController
